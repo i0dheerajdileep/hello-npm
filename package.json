@@ -1,0 +1,19 @@
+{
+  "name": "hello-npm",
+  "version": "1.0.0",
+  "description": "learn npm package working",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i0dheerajdileep/hello-npm.git"
+  },
+  "author": "Dheeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i0dheerajdileep/hello-npm/issues"
+  },
+  "homepage": "https://github.com/i0dheerajdileep/hello-npm#readme"
+}
